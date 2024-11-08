@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working blog-apis-applicatoin<br>🌱 I’m currently learning spring-boot<br>💬 Ask me about java<br>
+🔭 I’m currently working on blog-apis-applicatoin<br>🌱 I’m currently learning spring-boot<br>💬 Ask me about java<br>
 
 
 ## 🌐 Socials:
